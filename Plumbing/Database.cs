@@ -6,7 +6,7 @@ using Microsoft.Extensions.DependencyInjection;
 using ASimpleBlog.Data;
 using Microsoft.AspNetCore.Identity;
 
-namespace ASimpleBlog
+namespace ASimpleBlog.Plumbing
 {
     public static class DataSeeder
     {

@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace ASimpleBlog
+namespace ASimpleBlog.Plumbing
 {
     public static class StartupExtensions
     {

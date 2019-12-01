@@ -16,6 +16,7 @@ using Microsoft.Extensions.Hosting;
 using ASimpleBlog.Areas.Identity;
 using ASimpleBlog.Data;
 using MediatR;
+using ASimpleBlog.Plumbing;
 
 namespace ASimpleBlog
 {
